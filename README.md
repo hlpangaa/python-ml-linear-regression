@@ -1,4 +1,5 @@
 # Used Car Price Prediction
+Supervised Learning
 
 ## Application Workflow
 - Gathered and analyzed data related to used car prices and divided the data into training and testing datasets
